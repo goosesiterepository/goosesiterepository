@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    color: whitesmoke;
+}
+
+body {
+    min-height: 100vh;
+    background: url(background.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.logo {
+    display: flex;
+    justify-content: left;
+    width: 120px;
+    height: 120px;
+    border-radius: 20px;
+    position: fixed;
+}
+
+.one {
+    color: whitesmoke;
+    font-size: large;
+    padding-left: 15%;
+}
+
+.audio {
+    display: flex;
+    justify-content: right;
+}
