@@ -19,7 +19,7 @@ if (!$validated) {
 ?>
 
 <?PHP
-$ch = curl_init('ссылка на страницу');
+$ch = curl_init('https://goosesiterepository.github.io/goosesiterepository/calendar.html');
 curl_exec($ch);
 curl_close($ch);
 ?>
