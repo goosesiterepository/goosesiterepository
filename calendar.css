@@ -4,5 +4,7 @@ h1 {
 }
 
 body {
-    
+    background: url(calendar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
